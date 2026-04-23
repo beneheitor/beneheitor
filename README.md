@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou <mark>Heitor</mark> </h1>
+<h1 align="center">Hi there 👋 I´m <mark>Heitor</mark> </h1>
 
 <p align="center">
 <a href="mailto:heitorbr.office@gmail.com">
@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="center">Estudante de Desenvolvimento de Sistemas | Full-Stack Developer em formação</h3>
+<h3 align="center"> Student of Systems Development | Full-Stack Developer em formação</h3>
 <p align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+training;SENAI+Development+Student" />

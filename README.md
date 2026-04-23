@@ -16,14 +16,6 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+training;SENAI+Development+Student" />
 
-🎓 Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI   
-💻 Desenvolvedor Full Stack em formação <br> Com o Objetivo de:
-
-✔ Evoluir como desenvolvedor
-
-✔ Criar projetos para meu portfólio
-
-
-## Linguagens e tecnologias
+                             ## Linguagens e tecnologias
 
 ![Skills](https://skillicons.dev/icons?i=java,python,html,css,js,linux,windows,docker,git&theme=light)

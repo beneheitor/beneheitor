@@ -19,4 +19,4 @@
 
 ## Languages and Tools:
 
-![Skills](https://skillicons.dev/icons?i=java,python,html,css,js,linux,windows,docker,git&theme=light)
+![Skills](https://skillicons.dev/icons?i=java,python,html,css,js,linux,windows,docker,git,github&theme=light)

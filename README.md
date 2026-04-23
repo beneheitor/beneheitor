@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Heitor </h1>
+<h1 align="center">Olá 👋, eu sou <mark>Heitor</mark> </h1>
 
 <p align="center">
 <a href="mailto:heitorbr.office@gmail.com">
@@ -13,3 +13,18 @@
 
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | Full-Stack Developer em formação</h3>
 <p align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer" />
+
+🎓 Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI   
+💻 Desenvolvedor Full Stack em formação 
+Com o Objetivo de:
+
+✔ Evoluir como desenvolvedor
+
+✔ Criar projetos para meu portfólio
+
+
+## Linguagens e tecnologias
+
+![Skills](https://skillicons.dev/icons?i=java,python,linux,windowns,docker,git&theme=light)

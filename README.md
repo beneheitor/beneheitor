@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Heitor </h1>
 
-<!--
-**beneheitor/beneheitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:heitorbr.office@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="www.linkedin.com/in/heitorbribeiro">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h3 align="center">Estudante de Desenvolvimento de Sistemas | Full-Stack Developer em formação</h3>
+<p align="center">

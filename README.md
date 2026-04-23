@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I´m <mark>Heitor</mark> </h1>
+<h1 align="center">Hi, there 👋 I´m <mark>Heitor</mark> </h1>
 
 <p align="center">
 <a href="mailto:heitorbr.office@gmail.com">
@@ -16,6 +16,6 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+training;SENAI+Development+Student" />
 
-                             ## Linguagens e tecnologias
+##Languages and Tools:
 
 ![Skills](https://skillicons.dev/icons?i=java,python,html,css,js,linux,windows,docker,git&theme=light)

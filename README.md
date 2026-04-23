@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="center"> Student of Systems Development | Full-Stack Developer em formação</h3>
+<h3 align="center"> Student of Systems Development | Full-Stack Developer in training</h3>
 <p align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+training;SENAI+Development+Student" />

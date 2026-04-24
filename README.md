@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there 👋 I´m <mark>Heitor</mark> </h1>
 
-<p align="center"> 
+
   
 <a href="https://www.linkedin.com/in/heitorbribeiro" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,7 +10,7 @@
 <a href="mailto:heitorbr.office@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
 
 <h3 align="center"> Student of Systems Development | Full-Stack Developer in training</h3>
 <p align="center">
